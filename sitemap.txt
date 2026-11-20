@@ -7,3 +7,5 @@ https://n029k.github.io/doboku2-yacho/a-doboku2-eligibility.html
 https://n029k.github.io/doboku2-yacho/a-doboku2-first-exam.html
 https://n029k.github.io/doboku2-yacho/a-doboku2-keiken.html
 https://n029k.github.io/doboku2-yacho/a-doboku2-books.html
+https://n029k.github.io/doboku2-yacho/a-doboku2-law-numbers.html
+https://n029k.github.io/doboku2-yacho/a-doboku2-keiken-examples.html
