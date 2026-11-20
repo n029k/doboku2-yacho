@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://n029k.github.io/doboku2-yacho/sitemap.xml
