@@ -11,3 +11,4 @@ https://n029k.github.io/doboku2-yacho/a-doboku2-law-numbers.html
 https://n029k.github.io/doboku2-yacho/a-doboku2-keiken-examples.html
 https://n029k.github.io/doboku2-yacho/a-doboku2-koutei.html
 https://n029k.github.io/doboku2-yacho/a-doboku2-hinshitsu.html
+https://n029k.github.io/doboku2-yacho/a-doboku2-r8-analysis.html
